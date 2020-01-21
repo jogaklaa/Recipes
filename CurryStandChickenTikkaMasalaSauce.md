@@ -21,7 +21,7 @@
 * 1/2 tsp Salt, or to taste (optional)
 * 1 tsp White Sugar, or to taste (optional)
 
-# Instructions
+# Directions
 
 1. Heat ghee in a large skillet over medium heat and cook and stir onion until
 translucent, about 5 minutes. Stir in garlic; cook and stir just until fragrant,
