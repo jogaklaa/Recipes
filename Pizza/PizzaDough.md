@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* 2.5 Cup Water
+* 2.25 Cup Water
 * 1 Tbsp Sugar
 * 1 tsp Dry Yeast
 * 2 Tbsp Olive Oil
