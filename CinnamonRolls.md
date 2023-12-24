@@ -36,7 +36,7 @@
 5. Spread the mixture evenly over the dough
 6. Tightly roll dough
   * Cut dough in half if needed
-7. Cut roll into 1 inch segments and place in a greased pan
+7. Cut roll into 1 inch segments and place in a greased metal pan
 8. Let rise until double in size
 9. Put in oven for 10 minutes
 
