@@ -1,9 +1,9 @@
 # Cinnamon Rolls
 
-## Part 1
+## Part 1: Dough
 ### Ingredients
 * 1 Tbsp Dry yeast (one 1/4 packet = 2.25 teaspoons)
-* 1 Cup Warm milk (baby bath water warm to touch)
+* 1 Cup Warm milk (temperature that's specified on yeast packet)
 * 1/3 Cup Sugar
 * 1/2 Cup Soft Butter
 * 1 tsp Salt
@@ -19,7 +19,7 @@
 
 
 
-## Part 2
+## Part 2: Filling & Baking
 ### Ingredients
 #### To Spread
 * 1/4 Melted Cup Butter (OG recipe says softened, but I've always done melted)
@@ -38,9 +38,10 @@
   * Cut dough in half if needed
 7. Cut roll into 1 inch segments and place in a greased pan
 8. Let rise until double in size
-9. But in oven for 10 minutes
+9. Put in oven for 10 minutes
 
-## Part 3
+
+## Part 3: Frosting
 ### Ingredients
 * 1/2 Cup Soft Butter
 * 3/2 Cup Powdered Sugar
