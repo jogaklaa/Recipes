@@ -1,1 +1,26 @@
 # Recipes
+
+## Table of Contents ##
+
+* [Bourbon Chicken](bourbonChicken.md)
+* [Bread And Butter Pickles](BreadAndButterPickles.md)
+* [Cheesy Noods](CheesyNoods.md)
+* [Cincinnati Chili](CincinnatiChili.md)
+* [Cinnamon Rolls](CinnamonRolls.md)
+* [Corn Pudding](CornPudding.md)
+* [Chicken Tikka Masala](CurryStandChickenTikkaMasalaSauce.md)
+* [DIY Chipotle](/DIY%20Chipotle/)
+  * [Black Beans](/DIY%20Chipotle/BlackBeans.md)
+  * [Cilantro-Line Rice](/DIY%20Chipotle/Cilantro-LimeRice.md)
+  * [Chipotle Chicken](/DIY%20Chipotle/DopeAssChipotleChicken.md)
+  * [Fajita Veggies](/DIY%20Chipotle/FajitaVeggies.md)
+* [Honey Garlic Crockpod Meatballs](HoneyGarlicCrockpotMeatballs.md)
+* [Mango Chicken Salad](MangoChickenSalad.md)
+* [Meat Loaf](MeatLoaf.md)
+* [Mongolian Chicken](MongolianChicken.md)
+* [Pizza](/Pizza/)
+  * [Pizza](/Pizza/Pizza.md)
+  * [Pizza Dough](/Pizza/PizzaDough.md)
+  * [Pizza Sauce](/Pizza/PizzaSauce.md)
+* [Soft Ginger Cookies](SoftGingerCookies.md)
+* [Taco Soup](tacoSoup.md)
