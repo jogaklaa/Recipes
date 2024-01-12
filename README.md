@@ -15,6 +15,7 @@
   * [Chipotle Chicken](/DIY%20Chipotle/DopeAssChipotleChicken.md)
   * [Fajita Veggies](/DIY%20Chipotle/FajitaVeggies.md)
 * [Honey Garlic Crockpod Meatballs](HoneyGarlicCrockpotMeatballs.md)
+* [Lasagna](Lasagna.md)
 * [Mango Chicken Salad](MangoChickenSalad.md)
 * [Meat Loaf](MeatLoaf.md)
 * [Mongolian Chicken](MongolianChicken.md)
@@ -23,4 +24,4 @@
   * [Pizza Dough](/Pizza/PizzaDough.md)
   * [Pizza Sauce](/Pizza/PizzaSauce.md)
 * [Soft Ginger Cookies](SoftGingerCookies.md)
-* [Taco Soup](tacoSoup.md)
+* [Taco Soup](TacoSoup.md)

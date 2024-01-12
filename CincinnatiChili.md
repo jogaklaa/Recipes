@@ -28,20 +28,20 @@
 ## Directions
 1. Heat oil in a dutch oven or other heavy-bottomed stock pot over medium heat
 2. Add garlic and fry for a minute, do not brown
-3. Add in the spice mix and stir until fragrent, about a minute
+3. Add in the spice mix and stir until fragrant, about a minute
 4. Add ground beef and cook, breaking up clumps and mixing until no longer pink
-  * there should be no large chunks when this is done
+  * there should be no large chunks when this is done
 5. Mix in:
-  * Salt
-  * Tamoto Sauce
-  * Diced Tomatoes
-  * Bay Leaf
-  * 1 Cup Water
+  * Salt
+  * Tomato Sauce
+  * Diced Tomatoes
+  * Bay Leaf
+  * 1 Cup Water
 6. Simmer uncovered until slightly thickened
-  * More water can be added if simmered too long
+  * More water can be added if simmered too long
 7. Mix in:
- * Chocolate
- * Vinegar
- * worcestershire sauce
+ * Chocolate
+ * Vinegar
+ * Worcestershire sauce
 8. Simmer until thickened but still soupy
 9. Plate: noodles, chili, then cheese
