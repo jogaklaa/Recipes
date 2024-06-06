@@ -16,6 +16,7 @@
 
 ### Spice Mix
 * 4 tsp Chili Powder
+* 2 tbsp paprika 
 * 1.5 tsp Ground Cumin
 * 1 tsp Ground Coriander
 * 1.5 tsp Ground Cinnamon
@@ -32,10 +33,10 @@
 4. Add ground beef and cook, breaking up clumps and mixing until no longer pink
   * there should be no large chunks when this is done
 5. Mix in:
-  * Salt
-  * Tomato Sauce
-  * Diced Tomatoes
-  * Bay Leaf
+    * Salt
+    * Tomato Sauce
+    * Diced Tomatoes
+    * Bay Leaf
   * 1 Cup Water
 6. Simmer uncovered until slightly thickened
   * More water can be added if simmered too long
