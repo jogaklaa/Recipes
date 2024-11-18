@@ -1,5 +1,7 @@
 # Soft Ginger Cookies
 
+John, your mixer can handle a x4 batch
+
 ## Ingredients
 #### Dry
 * 2.25 Cups Flour
