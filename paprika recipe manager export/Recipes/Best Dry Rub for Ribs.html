@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16px;
+                color: #34302e;
+                margin: 0.25in;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14px;
+            }
+            .metadata {
+                font-size: 14px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                float: left;
+                margin-right: 14px;
+                            }
+            .photo {
+                max-width: 140px;
+                max-height: 140px;
+                width: auto;
+                height: auto;
+            }
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                page-break-after: always;
+                            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        <div class="photobox">
+            <a href="https://heygrillhey.com/wp-content/uploads/2018/12/Best-Dry-Rub-for-Ribs-683x1024.png">
+                <img src="Images/FE4A5715-AAE2-402A-80C2-ED48AA1652F1/8752D798-350A-422B-809E-4706BBDCD51B.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+                    </div>
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Best Dry Rub for Ribs</h1>
+        
+        <!-- Info -->
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+            <p itemprop="recipeCategory" class="categories">Seasoning/Sauce</p>
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            <b>Prep Time: </b><span itemprop="">5 mins</span>
+            <b>Cook Time: </b><span itemprop="">5 mins</span>
+            <b>Servings: </b><span itemprop="">10 people</span>
+
+            <!-- Source -->
+                <b>Source: </b>
+                    <a itemprop="url" href="https://heygrillhey.com/best-dry-rub-for-ribs/#wprm-recipe-container-5220">
+                        <span itemprop="author">Heygrillhey.com</span>
+                    </a>
+                            
+        </p>
+        
+        <div class="clear"></div>
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>¼</strong> cup brown sugar</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> teaspoons Kosher salt</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> teaspoons black pepper</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> teaspoons smoked paprika</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon garlic powder</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon onion powder</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon ground mustard powder</p><p class="line" itemprop="recipeIngredient"><strong>½</strong> teaspoon ground cinnamon</p><p class="line" itemprop="recipeIngredient"><strong>½</strong> teaspoon celery salt</p><p class="line" itemprop="recipeIngredient"><strong>¼</strong> teaspoon cayenne pepper</p>
+            </div>
+        </div>
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+
+    <!-- Directions -->
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Make the rub. Mix all ingredients in a bowl. Use a fork to crush any clumps of sugar or seasonings.</p><p class="line">Use or store. Store in an airtight container for up to a month.</p>
+        </div>
+    </div>
+
+    <!-- Notes -->
+
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+        <!-- Used in two different places depending on the recipe layout -->
+<div class="nutritionbox textbox">
+    <h3 class="subhead">Nutrition</h3>
+    <div itemprop="nutrition" class="nutrition text">
+        <p>Calories: 26kcal | Carbohydrates: 6g | Protein: 0.2g | Fat: 0.2g | Saturated Fat: 0.02g | Polyunsaturated Fat: 0.1g | Monounsaturated Fat: 0.1g | Sodium: 584mg | Potassium: 30mg | Fiber: 0.4g | Sugar: 5g | Vitamin A: 220IU | Vitamin C: 0.1mg | Calcium: 10mg | Iron: 0.2mg</p>
+    </div>
+</div>
+
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+    </body>
+</html>

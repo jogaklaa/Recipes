@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16px;
+                color: #34302e;
+                margin: 0.25in;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14px;
+            }
+            .metadata {
+                font-size: 14px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                float: left;
+                margin-right: 14px;
+                            }
+            .photo {
+                max-width: 140px;
+                max-height: 140px;
+                width: auto;
+                height: auto;
+            }
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                page-break-after: always;
+                            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        <div class="photobox">
+            <a href="https://www.dontsweattherecipe.com/wp-content/uploads/2017/06/smoked-chicken-wings-05-768x512.jpg">
+                <img src="Images/901494B6-02BA-49F3-A1E3-76EB112AFA49/279CC85C-94AA-491C-A310-723AEF093B00.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+                    </div>
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Amazing Smoked Chicken Wings</h1>
+        
+        <!-- Info -->
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+            <p itemprop="recipeCategory" class="categories">Chicken, Mains</p>
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            <b>Prep Time: </b><span itemprop="">10 min</span>
+            <b>Cook Time: </b><span itemprop="">3 hr</span>
+            <b>Servings: </b><span itemprop="">6</span>
+
+            <!-- Source -->
+                <b>Source: </b>
+                    <a itemprop="url" href="https://www.dontsweattherecipe.com/smoked-chicken-wings-recipe/#recipe">
+                        <span itemprop="author">Dontsweattherecipe.com</span>
+                    </a>
+                            
+        </p>
+        
+        <div class="clear"></div>
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>6</strong> LBS Chicken Wings</p><br/><p class="line" itemprop="recipeIngredient">Rub</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> Tablespoon Olive oil</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> Tablespoons Chili Powder</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> Tablespoons Smoked Paprika</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon Cumin</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon Onion powder</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon Garlic powder</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> teaspoons Kosher salt</p><p class="line" itemprop="recipeIngredient"><strong>3</strong> teaspoons Fresh Ground Pepper</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon Cayenne</p>
+            </div>
+        </div>
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+
+    <!-- Directions -->
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Separate wings into drumettes and wings, if necessary.</p><p class="line">Pat wings dry.</p><p class="line">Combine spices to form the rub.</p><p class="line">Place wings in a container, add and mix rub and olive oil over chicken.</p><p class="line">Let wings rest for at least an hour.</p><p class="line">Heat the smoker or grill to a temperature between 225-250 F.</p><p class="line">Place wings over indirect heat.</p><p class="line">Add wood for the smoke to coals.</p><p class="line">Smoke for 2 to 2 1/2 hours, maintaining a constant smoke for at least 1 1/2 hours, the chicken should have an internal temperature of 160.</p><p class="line">Place directly over coals to crisp, approximately 5 minutes each side.</p><p class="line">Remove from heat and let rest for approximately 10 minutes.</p><p class="line">Serve</p>
+        </div>
+    </div>
+
+    <!-- Notes -->
+
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+        <!-- Used in two different places depending on the recipe layout -->
+<div class="nutritionbox textbox">
+    <h3 class="subhead">Nutrition</h3>
+    <div itemprop="nutrition" class="nutrition text">
+        <p>Calories: 607kcal | Carbohydrates: 4g | Protein: 46g | Fat: 45g | Saturated Fat: 12g | Cholesterol: 189mg | Sodium: 1001mg | Potassium: 519mg | Fiber: 2g | Sugar: 1g | Vitamin A: 2439IU | Vitamin C: 2mg | Calcium: 51mg | Iron: 4mg</p>
+    </div>
+</div>
+
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+    </body>
+</html>

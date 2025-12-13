@@ -1,0 +1,188 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16px;
+                color: #34302e;
+                margin: 0.25in;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14px;
+            }
+            .metadata {
+                font-size: 14px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                float: left;
+                margin-right: 14px;
+                            }
+            .photo {
+                max-width: 140px;
+                max-height: 140px;
+                width: auto;
+                height: auto;
+            }
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                page-break-after: always;
+                            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        <div class="photobox">
+            <a href="https://www.tasteofhome.com/wp-content/uploads/2024/09/EXPS_THJJ18_212318_C01_31_2bC.jpg">
+                <img src="Images/3F654FF6-DAE4-470C-9329-05A50DBC61C6/C03F8A2D-8417-4A46-B71E-35CAFCB14FF6.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+                    </div>
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Jalapeno Popper Corn Salad</h1>
+        
+        <!-- Info -->
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            <b>Prep Time: </b><span itemprop="">25 min</span>
+            <b>Cook Time: </b><span itemprop="">15 min</span>
+            <b>Servings: </b><span itemprop="">8 servings</span>
+
+            <!-- Source -->
+                <b>Source: </b>
+                    <a itemprop="url" href="https://www.tasteofhome.com/recipes/jalapeno-popper-corn-salad/">
+                        <span itemprop="author">Tasteofhome.com</span>
+                    </a>
+                            
+        </p>
+        
+        <div class="clear"></div>
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>1</strong> medium onion, quartered</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> jalapeno peppers</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> cup sour cream</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> cup mayonnaise</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> ounces cream cheese, softened</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> teaspoons ground cumin</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon garlic powder</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon chili powder</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon smoked paprika</p><p class="line" itemprop="recipeIngredient"><strong>1/4</strong> teaspoon salt</p><p class="line" itemprop="recipeIngredient"><strong>1/4</strong> teaspoon pepper</p><p class="line" itemprop="recipeIngredient"><strong>4</strong> cups fresh corn (about 8 ears), cooked and cooled</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> cup shredded sharp cheddar cheese</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> cup shredded pepper jack cheese</p><p class="line" itemprop="recipeIngredient"><strong>1/2</strong> cup crumbled cooked bacon, divided</p>
+            </div>
+        </div>
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+
+    <!-- Directions -->
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Grill onion and jalapenos, covered, over medium-high heat or broil 4 in. from heat 3-5 minutes on each side or until lightly charred. Cool completely; chop into 1/2-inch pieces.</p><p class="line">Combine the next 9 ingredients. Stir in corn, cheeses, half the bacon, and the grilled vegetables. Top with remaining bacon to serve.</p>
+        </div>
+    </div>
+
+    <!-- Notes -->
+
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+        <!-- Used in two different places depending on the recipe layout -->
+<div class="nutritionbox textbox">
+    <h3 class="subhead">Nutrition</h3>
+    <div itemprop="nutrition" class="nutrition text">
+        <p>3/4 cup: 476 calories, 40g fat (14g saturated fat), 47mg cholesterol, 616mg sodium, 18g carbohydrate (7g sugars, 2g fiber), 14g protein.</p>
+    </div>
+</div>
+
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+    </body>
+</html>

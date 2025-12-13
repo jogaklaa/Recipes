@@ -25,3 +25,4 @@
   * [Pizza Sauce](/Pizza/PizzaSauce.md)
 * [Soft Ginger Cookies](SoftGingerCookies.md)
 * [Taco Soup](TacoSoup.md)
+*[Paprika Recipe Manager export (as of 12/13/2025)](/paprika%20recipe%20manager%20export/index.html)
