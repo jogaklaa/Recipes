@@ -16,11 +16,12 @@
 
 ### Spice Mix
 * 4 tsp Chili Powder
-* 2 tbsp paprika 
+* 2 tbsp Paprika 
 * 1.5 tsp Ground Cumin
 * 1 tsp Ground Coriander
 * 1.5 tsp Ground Cinnamon
 * .25 tsp Ground Clove
+* .25 tsp Ground Allspice (the original steps for the recipe mentions this, but doesn't list in the ingredients, this is a guess quantity based on other recipies)
 
 ### The Other Parts of a 3-Way
 * 1 lb Spaghetti, cooked (I usually do angle hair)
