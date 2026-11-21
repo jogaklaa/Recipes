@@ -21,7 +21,7 @@
 * 1 tsp Ground Coriander
 * 1.5 tsp Ground Cinnamon
 * .25 tsp Ground Clove
-* .25 tsp Ground Allspice (the original steps for the recipe mentions this, but doesn't list in the ingredients, this is a guess quantity based on other recipies)
+* ~~.25 tsp Ground Allspice (the original steps for the recipe mentions this, but doesn't list in the ingredients, this is a guess quantity based on other recipies)~~
 
 ### The Other Parts of a 3-Way
 * 1 lb Spaghetti, cooked (I usually do angel hair)
