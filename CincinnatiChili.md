@@ -24,7 +24,7 @@
 * .25 tsp Ground Allspice (the original steps for the recipe mentions this, but doesn't list in the ingredients, this is a guess quantity based on other recipies)
 
 ### The Other Parts of a 3-Way
-* 1 lb Spaghetti, cooked (I usually do angle hair)
+* 1 lb Spaghetti, cooked (I usually do angel hair)
 * Fancy Shredded Mild Cheddar Cheese (Has to be mild and hand shredded for best results)
 
 ## Directions
